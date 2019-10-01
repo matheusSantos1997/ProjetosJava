@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="lib/bibliotecas/|lib/bibliotecas/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache POI"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="src/lib/bibliotecas/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
