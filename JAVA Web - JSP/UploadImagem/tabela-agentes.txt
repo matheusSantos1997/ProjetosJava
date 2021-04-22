@@ -1,0 +1,10 @@
+create table agentes (
+   id_agente serial not null primary key,
+   nome_agente varchar(100),
+   email_agente varchar(100),
+   telefone_agente varchar(100),
+   cidade varchar(100),
+   regiao varchar(100),
+   unidade varchar(100,
+   foto varchar(100)
+);
